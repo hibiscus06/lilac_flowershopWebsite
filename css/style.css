@@ -1,0 +1,194 @@
+
+/*top container*/
+.top-container{
+   padding:3% 15% 43%;
+   background-image: url('pexels-anastasia-shuraeva-5566961.jpg');
+   margin-bottom: 10px;
+}
+
+.nav-bar{
+overflow: hidden;
+list-style-type: none;
+margin: 0;
+padding: 0 0 0 4%;
+}
+
+.nav-bar li{
+    float: left; 
+    color:ghostwhite;
+    font-size: 25px;
+    font-family:'Ubuntu';
+}
+.nav-item{
+    padding:0 30px;
+    
+}
+.nav-link{
+text-align: center;
+display: block;
+padding:14px 17px;
+}
+
+.nav-link:hover{
+    color:#B2B2B2;
+}
+
+#brand-name{
+    font-family:'Ubuntu';
+    font: weight 500px;
+    padding-bottom: 10px;
+    font-size: 6rem;
+}
+
+/*middle container*/
+
+.middle-container{
+    display: flex;
+    justify-content: center;
+    padding:1% 6% 1% 1%;
+    margin: 40px auto 40px auto;
+
+}
+.middle-row-item{
+    padding:15px 60px;
+    width:50%;
+    /* background-color:#F38181; */
+    
+}
+
+#middle-row-image{
+height:700px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:40px 40px 5px;
+
+}
+
+.big-heading{
+    font-family: 'Playfair Display';
+    font: weight 500px;
+    font-size: 5.8rem;
+    padding:30px 80px 0;
+    color:#144272;
+}
+
+#welcome-message{
+    padding: 0 30px 0 90px;
+    font-size:2.2rem;
+    color:#2C74B3;
+    font-family: 'Playfair Display';
+}
+
+#message{
+    padding: 35px 30px 0 90px; 
+    font-family: 'Ubuntu';
+}
+
+
+/*product-container*/
+.product-container{
+    
+    margin:30px auto 40px auto;
+    padding:30px 50px 60px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+
+.product-item{ 
+    padding:70px 30px 0;
+    margin-top: 50px;
+    text-align: center; 
+}
+
+.container-heading{
+   
+    color:#144272;
+    font-family:'Playfair Display';
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size:3rem;
+    position: absolute;
+}
+.product-image{
+    height:250px;
+    width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.product-name{
+    font-family: 'Ubuntu';
+    color:#2C74B3;
+    padding:20px;
+}
+
+.product-price{
+    font-weight:500;
+    font-size: 1.5rem;
+    color:#144272;
+}
+
+/*caraousel*/
+#testimonials{
+    
+    background-color: #DFF6FF;
+    text-align:center;
+    margin-bottom: 50px;
+    
+}
+.testimonial-text{
+    font-size: 3rem;
+    line-height: 1.5; 
+    color:#2C74B3;
+   
+}
+
+.testimonial-subtext{
+    color:#144272;
+}
+
+.testimonial-image
+{
+    width:20%;
+    margin:20px;
+    padding-top: 30px;
+}
+
+
+/*bottom*/
+
+.bottom-container{
+    text-align: center;
+    margin-top: 150px;
+    padding: 50px;
+    color:white;
+    background-color: #144272;
+}
+
+.footer{
+    padding-top:80px;
+}
+
+.footer-icon{
+    margin:1.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
